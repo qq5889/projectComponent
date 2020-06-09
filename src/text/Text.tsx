@@ -41,4 +41,5 @@ class Text extends PureComponent<ITextProps, ITextState> {
   }
 }
 
+// test
 export default Text;
